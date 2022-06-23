@@ -1,12 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7835B&lines=Hi+there%2C+I'm+Maria+%F0%9F%91%8B;Software+QA+Engineer+%F0%9F%92%BB;I+live+in+Denver%2C+CO+%E2%9B%B0)](https://git.io/typing-svg)
 
-Hey, I'm Maria Zasypkina
+### Hey, I'm Maria Zasypkina. I'm Software QA professional with several years of on-hand experience.
+### At this time I'm passionate about learning Java and Java Automation Tools and working on a pet-project with my colleagues and friends 
 
-I'm Software Quality Assurance Engineer 💻
+Platforms: Windows, Mac OS
+Mobile platforms: Android, iOS
+Browsers: Google Chrome, Safari, Opera, Microsoft Edge, Mozilla Firefox
+Testing Tools & Technologies: Chrome development tool, Charles Proxy, Postman, Android Studio, Logcat, XCode, Browser Stack, Sauce Labs, ADB 
+Databases: SQL, MySQL, PostgreSQL, Oracle, Maria DB
+Web Related:  HTML, CSS, JavaScript
+Test Automation: Selenium WebDriver, Cucumber
+Other Tools: Jira, Applause, Bugzilla, Test Link, Zephyr, Trello
 
-I live in Denver, CO ⛰
 
-maria.zasy@yahoo.com 📫 
+
+If you want to contact me, my email: maria.zasy@yahoo.com 📫 
+
+⚡ Fun fact: In my spare time I am an artist 🎨 (yep, the real one 😉)
+
+⚡ Fun fact#2: 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
