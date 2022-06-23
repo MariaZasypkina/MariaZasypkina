@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7835B&lines=Hi+there%2C+I'm+Maria+%F0%9F%91%8B;Software+QA+Engineer+%F0%9F%92%BB;I+live+in+Denver%2C+CO+%E2%9B%B0)](https://git.io/typing-svg)
 
-### Hey, I'm Maria Zasypkina. I'm Software QA professional with several years of on-hand experience.
-### At this time I'm passionate about learning Java and Java Automation Tools and working on a pet-project with my colleagues and friends 
+### Hey, I'm Maria Zasypkina. I'm Software QA professional with several years of on-hand experience and this is my private GitHub account.
+### I'm very passionate person, my current passion is to hone my Java and Java Automation skills and working on a pet-project with my colleagues and friends 
+
 
 Platforms: Windows, Mac OS
 Mobile platforms: Android, iOS
@@ -18,7 +19,8 @@ If you want to contact me, my email: maria.zasy@yahoo.com 📫
 
 ⚡ Fun fact: In my spare time I am an artist 🎨 (yep, the real one 😉)
 
-⚡ Fun fact#2: 
+⚡ Fun fact#2: My biggest wish is to have three times more hours every day to split between work 💻, gym 👟, hiking with my dog 🦮, and going paddle board with my daughter 🏄🏻
+ 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
@@ -42,18 +44,3 @@ If you want to contact me, my email: maria.zasy@yahoo.com 📫
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-
-<!--
-**MariaZasypkina/MariaZasypkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
