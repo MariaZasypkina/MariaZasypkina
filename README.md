@@ -4,14 +4,14 @@
 ### I'm very passionate person, my current passion is to hone my Java and Java Automation skills and working on a pet-project with my colleagues and friends 
 
 
-Platforms: Windows, Mac OS
+*Platforms: Windows, Mac OS
 Mobile platforms: Android, iOS
 Browsers: Google Chrome, Safari, Opera, Microsoft Edge, Mozilla Firefox
 Testing Tools & Technologies: Chrome development tool, Charles Proxy, Postman, Android Studio, Logcat, XCode, Browser Stack, Sauce Labs, ADB 
 Databases: SQL, MySQL, PostgreSQL, Oracle, Maria DB
 Web Related:  HTML, CSS, JavaScript
 Test Automation: Selenium WebDriver, Cucumber
-Other Tools: Jira, Applause, Bugzilla, Test Link, Zephyr, Trello
+Other Tools: Jira, Applause, Bugzilla, Test Link, Zephyr, Trello*
 
 
 
