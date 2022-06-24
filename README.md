@@ -5,6 +5,7 @@
 
 
 
+
 *Platforms: Windows, Mac OS
 Mobile platforms: Android, iOS
 Browsers: Google Chrome, Safari, Opera, Microsoft Edge, Mozilla Firefox
