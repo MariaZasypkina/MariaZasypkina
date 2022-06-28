@@ -26,6 +26,7 @@ If you want to contact me, my email: maria.zasy@yahoo.com 📫
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
