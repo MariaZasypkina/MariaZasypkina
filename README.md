@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7835B&lines=Hi+there%2C+I'm+Maria+%F0%9F%91%8B;Software+QA+Engineer+%F0%9F%92%BB;I+live+in+Denver%2C+CO+%E2%9B%B0)](https://git.io/typing-svg)
 
 ### Hey, I'm Maria Zasypkina. I'm Software QA professional with years of on-hand experience and this is my private GitHub account.
-### I'm very passionate person, my current interest is to hone my Java and Java Automation skills and working on a pet-project with my colleagues and friends 
+### I'm very passionate person, my current interest is to hone my Java and JavaScript Automation skills and working on a pet-project with my colleagues and friends 
 
 
 
