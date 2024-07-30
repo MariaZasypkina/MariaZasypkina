@@ -12,7 +12,7 @@ Browsers: Google Chrome, Safari, Opera, Microsoft Edge, Mozilla Firefox
 Testing Tools & Technologies: Chrome development tool, Charles Proxy, Postman, Android Studio, Logcat, XCode, Browser Stack, Sauce Labs, ADB 
 Databases: SQL, MySQL, PostgreSQL, Oracle, Maria DB
 Web Related:  HTML, CSS, JavaScript
-Test Automation: Selenium WebDriver, Cucumber
+Test Automation: Cypress, Playwright, Selenium WebDriver, Cucumber
 Other Tools: Jira, Applause, Bugzilla, Test Link, Zephyr, Trello*
 
 
