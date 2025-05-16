@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7835B&lines=Hi+there%2C+I'm+Maria+%F0%9F%91%8B;Quality+Assurance+Specialist+%F0%9F%92%BB;Web+Developer+%F0%9F%8F%A0;I+live+in+Denver%2C+CO+%E2%9B%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7835B&lines=Hi+there%2C+I'm+Maria+%F0%9F%91%8B;%F0%9F%92%BB;Web+Developer+%F0%9F%8F%A0;I+live+in+Denver%2C+CO+%E2%9B%B0)](https://git.io/typing-svg)
 
 
 ## Hey, I'm Maria Zasypkina! 🚀
