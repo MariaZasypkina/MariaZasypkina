@@ -3,7 +3,7 @@
 
 ## Hey, I'm Maria Zasypkina! 🚀
  
-I'm a **Quality Assurance Specialist** and an aspiring **Full-Stack Web Developer**. Passionate about **JavaScript, React, Node.js**, and building **aesthetic, stylish, and user-friendly applications that are both meaningful and visually appealing**.
+I'm an aspiring **Full-Stack Web Developer**. Passionate about **JavaScript, React, Node.js**, and building **aesthetic, stylish, and user-friendly applications that are both meaningful and visually appealing**.
 
 ### 🔥 My Current Focus:
 - Enhancing my **React & Node.js** skills with real-world projects
