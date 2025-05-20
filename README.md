@@ -29,6 +29,9 @@ I'm an aspiring **Full-Stack Web Developer**. Passionate about **JavaScript, Rea
 🔗 [LinkedIn](https://www.linkedin.com/in/maria-zasypkina/)
 
 ---
+
+
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 #### 🔧 Tools & Platforms:
