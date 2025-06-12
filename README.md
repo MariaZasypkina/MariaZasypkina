@@ -2,6 +2,8 @@
 
 
 ## Hey, I'm Maria Zasypkina! 🚀
+
+
  
 I'm an aspiring **Full-Stack Web Developer**. Passionate about **JavaScript, React, Node.js**, and building **aesthetic, stylish, and user-friendly applications that are both meaningful and visually appealing**.
 
