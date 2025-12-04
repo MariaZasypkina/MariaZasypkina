@@ -1,21 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7835B&lines=Hi+there%2C+I'm+Maria+%F0%9F%91%8B;%F0%9F%92%BB;Web+Developer+%F0%9F%8F%A0;I+live+in+Denver%2C+CO+%E2%9B%B0)](https://git.io/typing-svg)
 
 
-## Hey, I'm Maria Zasypkina! 
-
+## Hey, I'm Maria Zasypkina! The founder of Creative Code Palette studio 🎨
 
  
 I'm an aspiring **Full-Stack Web Developer**. Passionate about **JavaScript, React, Node.js**, and building **aesthetic, stylish, and user-friendly applications that are both meaningful and visually appealing**.
 
-### 🔥 My Current Focus:
-- Enhancing my **React & Node.js** skills with real-world projects
-- Building **full-stack applications**
-- Exploring **MongoDB, JWT authentication**, and API integration
-- Working on **user-friendly UI/UX** improvements
+
+
+### 🔥 My Current Focus is on Building **full-stack applications**
 
 ### 🛠️ Tech Stack:
 **Frontend:** React, JavaScript (ES6+), HTML, CSS, Vite
-**Backend:** Node.js, Express, MongoDB
+**Backend:** Node.js, Express, MongoDB, PostgreSQL
 **Testing:** Cypress, Playwright, Selenium WebDriver
 **Dev Tools:** Git, GitHub, Jira, Postman, Chrome DevTools, Docker
 **Other:** OAuth, Passport, Firebase, Airtable API
