@@ -19,8 +19,8 @@ I'm an aspiring **Full-Stack Web Developer**. Passionate about **JavaScript, Rea
 
 ### 🎨 Fun Facts:
 - I'm an **artist** 🎨 (yes, the real one 😉)
-- I love **hiking, paddleboarding, and fitness** 🏄‍♀️👟
-- My **dog Alice (a golden Labrador) is my hiking buddy** 🦮
+- I love **music, art, hiking, paddleboarding, and fitness** 🏄‍♀️👟
+- My **dog Alisa (a golden Labrador) is my hiking buddy** 🦮
 - My dream? **More hours in a day to balance work, art, and adventure!**
 
 ### 📫 Let's Connect:
