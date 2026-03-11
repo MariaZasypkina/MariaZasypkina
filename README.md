@@ -2,9 +2,10 @@
 
 
 ## Hey, I'm Maria Zasypkina! The founder of Creative Code Palette studio 🎨
+## Mentor @ Code the Dream|HR & Talent Acquisition Specialist 
 
  
-I'm an aspiring **Full-Stack Web Developer**. Passionate about **JavaScript, React, Node.js**, and building **aesthetic, stylish, and user-friendly applications that are both meaningful and visually appealing**.
+I'm an aspiring **Full-Stack Web Developer**, **Mentor**, **Code Reviewer** and **Recruiter**. I combine hands-on **JavaScript, React, Node.js** development with 20+ years of experience in talent acquisition.
 
 
 
@@ -16,6 +17,16 @@ I'm an aspiring **Full-Stack Web Developer**. Passionate about **JavaScript, Rea
 **Testing:** Cypress, Playwright, Selenium WebDriver
 **Dev Tools:** Git, GitHub, Jira, Postman, Chrome DevTools, Docker
 **Other:** OAuth, Passport, Firebase, Airtable API
+
+### 👥 Mentoring & Reviewing
+- Mentor at Code the Dream: Help students with transition to tech roles
+- Code reviews: Focus on clean code, testing, and performance in React/Node.js projects
+
+### 💼 Recruiting Highlights:
+- 20+ years in HR & Talent Acquisition: international exchange programs, tech and digital roles.
+- Hired and supported 1000+ candidates across internships, seasonal programs, and full-time roles.
+- Built candidate pipelines and selection processes that improved hiring speed and quality.
+- Now use this experience to mentor junior developers on portfolios, interviews, and job search strategy.
 
 ### 🎨 Fun Facts:
 - I'm an **artist** 🎨 (yes, the real one 😉)
