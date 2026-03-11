@@ -1,15 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7835B&lines=Hi+there%2C+I'm+Maria+%F0%9F%91%8B;%F0%9F%92%BB;Web+Developer+%F0%9F%8F%A0;I+live+in+Denver%2C+CO+%E2%9B%B0)](https://git.io/typing-svg)
 
 
-## Hey, I'm Maria Zasypkina! The founder of Creative Code Palette studio 🎨
-## Mentor @ Code the Dream|HR & Talent Acquisition Specialist 
+# Hey, I'm Maria Zasypkina! The founder of Creative Code Palette studio 🎨
+## Mentor @ Code the Dream | Talent Acquisition Specialist 🔥
 
  
 I'm an aspiring **Full-Stack Web Developer**, **Mentor**, **Code Reviewer** and **Recruiter**. I combine hands-on **JavaScript, React, Node.js** development with 20+ years of experience in talent acquisition.
-
-
-
-### 🔥 My Current Focus is on Building **full-stack applications**
+ 
 
 ### 🛠️ Tech Stack:
 **Frontend:** React, JavaScript (ES6+), HTML, CSS, Vite
