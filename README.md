@@ -10,9 +10,12 @@ I'm an aspiring **Full-Stack Web Developer**, **Mentor**, **Code Reviewer** and 
 
 ### 🛠️ Tech Stack:
 **Frontend:** React, JavaScript (ES6+), HTML, CSS, Vite
+
 **Backend:** Node.js, Express, MongoDB, PostgreSQL
 **Testing:** Cypress, Playwright, Selenium WebDriver
+
 **Dev Tools:** Git, GitHub, Jira, Postman, Chrome DevTools, Docker
+
 **Other:** OAuth, Passport, Firebase, Airtable API
 
 ### 👥 Mentoring & Reviewing
